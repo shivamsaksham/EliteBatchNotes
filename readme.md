@@ -11,8 +11,10 @@ It is open does not mean you can copy it.
 You can use it for Personal Purpose.
 And Just Fork The project.
 
+## Get To Know Github
 
-Website : [RichTextEditor]()
+[Learn Github](https://docs.github.com/en/get-started/quickstart/hello-world)
+
 ## Deployment
 
 To Copy this Project on your pc run
