@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sep 6 22.md",
+            "file": "Sep 5 22.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sep 6 22.md",
+                "file": "Sep 5 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sep 6 22.md",
+                "file": "Sep 5 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sep 6 22.md"
+                "file": "Sep 5 22.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "092cd9a9b50bcd72",
   "lastOpenFiles": [
+    "Sep 6 22.md",
     "Sep 5 22.md"
   ]
 }
